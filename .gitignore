@@ -1,4 +1,14 @@
 # created by virtualenv automatically
+
+/myenv/bin/*
+/myenv/lib/*
+
+*.cfg
+*.bin
+*.cache
+*.pycache
+
+
 # Prerequisites
 *.d
 
