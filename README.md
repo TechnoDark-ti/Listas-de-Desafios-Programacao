@@ -5,7 +5,7 @@
 
 - Saudações, o intuito desde repositório é para fins práticos de progrgamação em qualquer linguaguem, como também visado ajudar os colegas que caíram de paraquedas no mundo da Tecnologia e queiram aprender a programar.
 
-- A Princípio, terá um arquivo markdown com as questões retiradas na internet e algumas geradas pelo ChatGPT.
+- A Princípio, terá um arquivo markdown com as questões adaptadas da internet e algumas geradas pelo ChatGPT.
 
 - Para fins didáticos utilize o chatGPT como uma ferramenta de ensino e não para trapaças no seu código, pois assim você colocará em risco o seu aprendizado.
 
