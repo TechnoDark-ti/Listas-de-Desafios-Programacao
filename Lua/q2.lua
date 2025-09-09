@@ -17,9 +17,14 @@ while true do
     local opcao = tonumber(io.read())
 
 
-    if opcao == 1 do
+    if opcao == 1 then
+    
+    elseif opcao == 2 then 
+
+    elseif  opcao == 3 then
+        
+    
+    else
+        print("comando inválido!")
     end
-    elseif opcao == 2 do
-    end
-else
 end
