@@ -28,7 +28,7 @@ Agradecemos o interesse em contribuir para esta iniciativa. Existem várias mane
 ## Contato
 * Email de Contato: marciomoda18@gmail.com
 * Intagram Pessoal: @tec_marciomoda
-* Instagram Profissioanl: @darkcells.official
+* Instagram Profissioanl: @tecnodark.official
 * LinkedIn: márcio-moda
 
 ## Licença
