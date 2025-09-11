@@ -2,6 +2,15 @@
 #include <vector>
 #include <functional>
 
+/*
+@Authores: Denny Soares
+           Igor Guimarães
+           Márcio Moda
+Data: 10/09/2025
+
+This code is linceded GPL v.3
+*/
+
 using namespace std;
 
 int main() {
