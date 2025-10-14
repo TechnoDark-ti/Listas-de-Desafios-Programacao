@@ -61,7 +61,17 @@ function sete()
     print("Media: " .. media)
 end
 --Faça um programa que entre com dois números inteiros e exiba na tela a seguintes saída: dividendo, divisor, quociente e resto.
+function oito()
+    local entrada1 = io.read()
+    local entrada2 = io.read()
 
+    resultado = entrada1 % entrada2
+    print("Dividendo: " .. entrada1 .. "\n")
+    print("Divisor: " .. entrada2 .. "\n")
+    print("Resto: " .. resultado % 0 .. "\n")
+end
+
+oito()
 --Faça um programa que entre com 4 números e exiba na tela a média ponderada, sabendo que seus respectivos pesos são: 1, 2, 3, 4.
 --Faça um programa que entre com um angulo em graus e exiba na tela: seno, co-seno, tangente, secante, co-secante e co-tangente do mesmo.
 --Faça um programa que entre com o número e a base em que se deseja calcular o log e o exiba na tela.
